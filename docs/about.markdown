@@ -2,21 +2,13 @@
 layout: page
 title: About
 permalink: /about/
----
-
----
-
-layout: page
-title: About
-permalink: /about/
 description: Roll the dice, command a fleet, and lead your server through co-op battles, duels, factional struggles, collectible pets, crew, and crafting in a living sci-fi galaxy.
-
 ---
 
 # Dice Trek Adventures
 
 **Roll the dice. Command a fleet. Shape the galaxy.**
-Dice Trek Adventures turns your Discord server into a sci-fi battleground where friends team up for quick daily ops, chase rare loot, and climb leaderboards - without cluttering your channels.
+Dice Trek Adventures turns your Discord server into a sci-fi battleground where friends team up for quick daily battles, create factions and fight against each other, collect alien pets, and climb leaderboards - without cluttering your channels.
 
 > **Play in minutes:** Invite the bot → run a command → make your move.
 
