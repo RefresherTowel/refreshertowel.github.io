@@ -35,19 +35,19 @@ Call out rivals for quick, high-stakes showdowns. Outsmart, out-roll, and earn y
 
 ### Join a Faction & Claim the Map
 
-Create a unique faction, recruit allies, and push your influence across a persistent star map with weekly goals and bragging rights.
+Create a unique faction, recruit allies, and push your influence across a persistent galactic map for bragging rights.
 
 ### Collect & Raise Pets
 
-Find alien pet companions with charming personalities and light utility bonuses. Hunt seasonal rarities, name them, and show them off.
+Find alien pet companions with unique personalities and the occasional perk. Hunt seasonal rarities, name them, and show them off.
 
 ### Build Your Crew
 
-Recruit specialists - **Bridge Officers, Gunners, Barrier Technicians and Biotech Specialists**. Unlock perks, discover synergies, and tailor your team’s playstyle.
+Recruit crew - train them into specialists, such as **Bridge Officers, Gunners, Barrier Technicians and Biotech Specialists**. Unlock perks, discover synergies, and tailor your team’s playstyle.
 
 ### Craft, Upgrade & Optimize
 
-Salvage materials from explorations and craft items to help you out on your adventures!
+Salvage materials by exploring the galaxy and craft items to help you out on your adventures!
 
 ### Explore Events & Stories
 
@@ -58,8 +58,8 @@ Uncover map sectors, play through ever-changing story events and influence the g
 ## How it plays (super simple)
 
 1. **Invite the bot** to your Discord server.
-2. **Start an op or duel** with an easy command.
-3. **Make your move** when the prompt appears—quick, satisfying, and team-friendly.
+2. **Start exploring the galaxy** with easy slash commands.
+3. **Make your move** by pressing buttons - quick, satisfying, and team-friendly.
 
 ---
 
