@@ -11,7 +11,7 @@ permalink: /privacy/
 This Privacy Policy explains how **Dice Trek Adventures** (the “**Service**” or the “**Bot**”) collects, uses, and shares information when you use the Discord application and related services.
 
 **Operator.** The Service is operated by **RefresherTowel** (“**we**,” “**us**,” or “**our**”).
-**Contact:** refreshertowelgames@gmail.com • http://refreshertowel.games
+**Contact:** [refreshertowelgames@gmail.com](mailto:refreshertowelgames@gmail.com) • <https://refreshertowel.games>
 **Governing Law:** Queensland, Australia
 
 ---
@@ -100,7 +100,7 @@ We use reasonable administrative, technical, and organizational safeguards (prin
 
 **California:** We do not sell or share personal information for cross‑context behavioral advertising. Subject to the CCPA/CPRA, California residents may request access or deletion of personal information we hold.
 
-To exercise any rights, contact us at **[CONTACT EMAIL]** with your Discord user ID and server ID.
+To exercise any rights, contact us at **[refreshertowelgames@gmail.com](mailto:refreshertowelgames@gmail.com)** with your Discord user ID and server ID.
 
 ## 10) Children’s Privacy
 
@@ -116,13 +116,13 @@ We may update this policy from time to time. When we do, we will update the “L
 
 ## 13) Contact
 
-Questions or requests? Email **refreshertowelgames@gmail.com**.
+Questions or requests? Email **[refreshertowelgames@gmail.com](mailto:refreshertowelgames@gmail.com)**.
 
 ---
 
-### Data Request Template (Optional)
+### Data Request
 
-You can copy/paste the text below when emailing us at **refreshertowelgames@gmail.com**.
+You can copy/paste the text below when emailing us at **[refreshertowelgames@gmail.com](mailto:refreshertowelgames@gmail.com)**.
 
 - Subject: Dice Trek Adventures – Data Request
 - My Discord user ID: `[your numeric ID]`

@@ -11,8 +11,8 @@ permalink: /terms/
 These Terms of Service (“**Terms**”) govern your access to and use of the Dice Trek Adventures Discord application and related services (the “**Bot**” or “**Service**”). By using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 **Operator.** The Service is operated by **RefresherTowel Games** (“**we**,” “**us**,” or “**our**”).
-**Contact:** refreshertowelgames@gmail.com • https://refreshertowel.games
-**Privacy Policy:** https://refreshertowel.github.io/privacy/
+**Contact:** [refreshertowelgames@gmail.com](mailto:refreshertowelgames@gmail.com) • <https://refreshertowel.games>
+**Privacy Policy:** [Privacy Policy](/privacy/)
 
 ---
 
@@ -116,4 +116,4 @@ If any provision is held invalid, the remaining provisions will remain in effect
 
 ## 18) Contact
 
-Questions? Email us at **refreshertowelgames@gmail.com**.
+Questions? Email us at **[refreshertowelgames@gmail.com](mailto:refreshertowelgames@gmail.com)**.
