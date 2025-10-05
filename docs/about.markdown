@@ -17,7 +17,7 @@ Dice Trek Adventures turns your Discord server into a sci-fi battleground where 
 ## Why you’ll love it
 
 - **Fast co-op sessions** - Jump into daily encounters that take just a few minutes.
-- **Real progression** - Ships, crew, pets, and gear that grow with you.
+- **Real progression** - Crew, crafting, collectible pets, and a galaxy that changes based on players actions.
 - **Clean play experience** - Big moments, clear prompts, no channel spam.
 - **Fair & friendly** - Free to play; optional cosmetic supporter perks, no pay-to-win.
 
