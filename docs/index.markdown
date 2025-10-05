@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Dice Trek Adventures Policies
+title: Dice Trek Adventures
 ---
 
+- [About the Game](/about/)
 - [Terms of Service](/terms/)
 - [Privacy Policy](/privacy/)
