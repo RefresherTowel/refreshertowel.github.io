@@ -1,0 +1,4 @@
+collections:
+  tutorials:
+    output: true
+    permalink: /tutorials/:name/
