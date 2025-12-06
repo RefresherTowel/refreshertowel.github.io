@@ -1,4 +1,4 @@
-# Let's Build A State Machine
+# Let's Build a Basic State Machine
 
 ---
 
@@ -283,4 +283,5 @@ Now I think it's time for me to head back into my lair for a bit, but this time,
 [Oh, and here's a downloadable project with all the code in it.](https://github.com/RefresherTowel/refreshertowel.github.io/releases/download/tutorial/Tutorial_BasicStateMachine.yymps)
 
 Catch you on the flipside my peeps.
+
 
