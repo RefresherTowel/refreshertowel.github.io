@@ -66,10 +66,10 @@ Looking pretty good so far. Same general setup, call the constructor with `new` 
 ```js
 sm = new StateMachine();
 idle = new State();
+// Altering state and update directly here feels a little icky
 idle.update = function() {
 	// Idle code here
 }
-// Altering state directly here feels a little icky
 sm.state = idle;
 ```
 
@@ -283,6 +283,7 @@ Now I think it's time for me to head back into my lair for a bit, but this time,
 [Oh, and here's a downloadable project with all the code in it.](https://github.com/RefresherTowel/refreshertowel.github.io/releases/download/tutorial/Tutorial_BasicStateMachine.yymps)
 
 Catch you on the flipside my peeps.
+
 
 
 
