@@ -20,7 +20,7 @@ Now you add flying, and suddenly there's a whole new thing you need to check for
 
 This is the part of the story where the triumphant state machine walks into the room, head held high, to heroically save the day.
 
-You see, the secret sauce behind state machines is they let you “carve out” little sections of code into “states” and then guarantee that only the code from one state is run at a time. It makes the states mutually exclusive, which then means, instead of having to try to figure out how your interlocking system of flags is leading to the player sprite incorrectly changing into swimming while you're on land, you can literally just reason about each small chunk of code at a time, safe in the knowledge that flying code will NEVER be run during swimming, no matter how hard your playtesters try to make that happen.
+You see, the secret sauce behind state machines is they let you “carve out” little sections of code into “states” and then guarantee that only the code from one state is run at a time. It makes the states mutually exclusive, which then means, instead of having to try to figure out how your interlocking system of flags is leading to the player sprite incorrectly changing into swimming while you're on land, you can literally just reason about each small chunk of code at a time, safe in the knowledge that flying code will NEVER be run during swimming, no matter how hard your play-testers try to make that happen.
 
 This might not actually sound all that amazing on the face of it, but once you start experiencing the ease of development this code partitioning allows for (and the many varied situations it can be helpful in), you'll wonder how you ever did anything any other way.
 
@@ -283,5 +283,6 @@ Now I think it's time for me to head back into my lair for a bit, but this time,
 [Oh, and here's a downloadable project with all the code in it.](https://github.com/RefresherTowel/refreshertowel.github.io/releases/download/tutorial/Tutorial_BasicStateMachine.yymps)
 
 Catch you on the flipside my peeps.
+
 
 
